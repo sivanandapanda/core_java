@@ -5,6 +5,9 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 release.properties
 
+#Gradle
+build
+
 # Eclipse
 .project
 .classpath
